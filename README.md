@@ -13,4 +13,4 @@
 4. FLIM analysis (collaboration with Hugo Fluhr): [https://github.com/xzhang03/SPC_analysis](https://github.com/xzhang03/SPC_analysis)
 5. Electrophysiology analysis: [https://github.com/xzhang03/ephys_analysis_2023](https://github.com/xzhang03/ephys_analysis_2023)
 6. Jeffrey's interval estimation: [https://github.com/xzhang03/Jeffi](https://github.com/xzhang03/Jeffi)
-
+7. EASI-FISH tiff stack segmentation, preprocessing, quantification (run in hcr_only mode): [https://github.com/orena1/easi-pass]
