@@ -1,7 +1,7 @@
 # Code-for-Sunkavalli-et-al
 
 ## Hardware designs and Firmware
-1. Nanosec photometry/optogenetics/behavioral system: [https://github.com/xzhang03/Square_wave_box](https://github.com/xzhang03/NidaqGUI)
+1. Nanosec photometry/optogenetics/behavioral system: [https://github.com/xzhang03/nidaqgui](https://github.com/xzhang03/NidaqGUI)
 2. Nanosec enclosure: [https://github.com/xzhang03/Half_breadboard_box](https://github.com/xzhang03/Half_breadboard_box)
 3. Nanosec tester: [https://github.com/xzhang03/TeensyTester](https://github.com/xzhang03/TeensyTester)
 4. Rotary encoder USB: [https://github.com/xzhang03/Encoder_USB](https://github.com/xzhang03/Encoder_USB)
