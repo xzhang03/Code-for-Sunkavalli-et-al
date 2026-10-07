@@ -14,3 +14,4 @@
 5. Electrophysiology analysis: [https://github.com/xzhang03/ephys_analysis_2023](https://github.com/xzhang03/ephys_analysis_2023)
 6. Jeffrey's interval estimation: [https://github.com/xzhang03/Jeffi](https://github.com/xzhang03/Jeffi)
 7. EASI-FISH tiff stack segmentation, preprocessing, quantification (run in hcr_only mode): [https://github.com/orena1/easi-pass]
+8. FLIM data simulation: https://github.com/xzhang03/FLIMStudies
