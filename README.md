@@ -9,7 +9,8 @@
 
 ## Analysis
 1. Photometry analysis: [https://github.com/xzhang03/Photometry_analysis](https://github.com/xzhang03/Photometry_analysis)
-2. Image registration: [https://github.com/xzhang03/Demonsreg-Oneshot](https://github.com/xzhang03/Demonsreg-Oneshot)
+2. Image registration: [https://github.com/xzhang03/Demonsreg-Oneshot](https://github.com/xzhang03/Demonsreg-Oneshot) [![DOI](https://zenodo.org/badge/213237162.svg)](https://doi.org/10.5281/zenodo.23539135)
+
 3. Tiff-based imaging analysis: [https://github.com/xzhang03/Tiff_preprocess_2023](https://github.com/xzhang03/Tiff_preprocess_2023)
 4. FLIM analysis (collaboration with Hugo Fluhr): [https://github.com/xzhang03/SPC_analysis](https://github.com/xzhang03/SPC_analysis)
 5. Electrophysiology analysis: [https://github.com/xzhang03/ephys_analysis_2023](https://github.com/xzhang03/ephys_analysis_2023)
