@@ -1,5 +1,5 @@
 # Code-for-Sunkavalli-et-al
-https://zenodo.org/badge/DOI/10.5281/zenodo.23538875.svg
+[![DOI](https://zenodo.org/badge/966220458.svg)](https://doi.org/10.5281/zenodo.23538874)
 
 ## Hardware designs and Firmware
 1. Nanosec photometry/optogenetics/behavioral system: [https://github.com/xzhang03/nidaqgui](https://github.com/xzhang03/NidaqGUI)
