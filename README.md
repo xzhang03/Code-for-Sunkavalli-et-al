@@ -15,7 +15,7 @@
 5. FLIM analysis (collaboration with Hugo Fluhr): [https://github.com/xzhang03/SPC_analysis](https://github.com/xzhang03/SPC_analysis) [![DOI](https://zenodo.org/badge/239034615.svg)](https://doi.org/10.5281/zenodo.23539291)
 6. Electrophysiology analysis: [https://github.com/xzhang03/ephys_analysis_2023](https://github.com/xzhang03/ephys_analysis_2023) [![DOI](https://zenodo.org/badge/672070541.svg)](https://doi.org/10.5281/zenodo.23539286)
 7. Jeffreys interval estimation: [https://github.com/xzhang03/Jeffi](https://github.com/xzhang03/Jeffi) [![DOI](https://zenodo.org/badge/65416733.svg)](https://doi.org/10.5281/zenodo.23539086)
-8. EASI-FISH tiff stack segmentation, preprocessing, quantification (run in hcr_only mode): [https://github.com/orena1/easi-pass]
+8. EASI-FISH tiff stack segmentation, preprocessing, quantification (run in hcr_only mode): [https://github.com/orena1/easi-pass] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23539413.svg)](https://doi.org/10.5281/zenodo.23539413)
 9. FLIM data simulation: https://github.com/xzhang03/FLIMStudies [![DOI](https://zenodo.org/badge/687700222.svg)](https://doi.org/10.5281/zenodo.23539053)
 10. Local normalize: https://github.com/xzhang03/Local-normalize [![DOI](https://zenodo.org/badge/357689743.svg)](https://doi.org/10.5281/zenodo.23539080)
 
